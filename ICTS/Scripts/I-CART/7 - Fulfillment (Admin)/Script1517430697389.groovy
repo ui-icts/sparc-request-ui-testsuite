@@ -22,7 +22,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.url_fulfillment)
 
-CustomKeywords.'newpackage.newkeyword.loadTextFile'('H:\\katalon.txt')
+CustomKeywords.'newpackage.newkeyword.loadTextFile'(GlobalVariable.password_filepath)
 
 WebUI.setText(findTestObject('I-CART/Page_University of Iowa HawkID Logi/input_j_username'), GlobalVariable.username_admin)
 

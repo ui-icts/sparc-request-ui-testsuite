@@ -41,7 +41,7 @@ public class GlobalVariable {
     /**
      * <p></p>
      */
-    public static Object url_fulfillment
+    public static Object url_fulfilment
      
     /**
      * <p></p>
@@ -53,10 +53,15 @@ public class GlobalVariable {
      */
     public static Object project_title
      
+    /**
+     * <p></p>
+     */
+    public static Object password_filepath
+     
 
     static {
         def allVariables = [:]        
-        allVariables.put('default', ['username' : 'ictsicarttest', 'password' : '', 'username_admin' : 'ictsicartatest', 'password_admin' : '', 'url' : 'https://rsmt-test.icts.uiowa.edu', 'url_fulfillment' : 'https://fulfillment-test.icts.uiowa.edu', 'pid' : '232', 'project_title' : 'Katalon Test Study'])
+        allVariables.put('default', ['username' : '', 'password' : '', 'username_admin' : '', 'password_admin' : '', 'url' : '', 'url_fulfilment' : '', 'pid' : '', 'project_title' : '', 'password_filepath' : ''])
         
         String profileName = RunConfiguration.getExecutionProfile()
         
@@ -66,9 +71,10 @@ public class GlobalVariable {
         username_admin = selectedVariables['username_admin']
         password_admin = selectedVariables['password_admin']
         url = selectedVariables['url']
-        url_fulfillment = selectedVariables['url_fulfillment']
+        url_fulfilment = selectedVariables['url_fulfilment']
         pid = selectedVariables['pid']
         project_title = selectedVariables['project_title']
+        password_filepath = selectedVariables['password_filepath']
         
     }
 }

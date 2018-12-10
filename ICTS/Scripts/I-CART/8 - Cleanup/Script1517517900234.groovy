@@ -23,7 +23,7 @@ WebUI.openBrowser(GlobalVariable.url)
 
 WebUI.click(findTestObject('I-CART/Page_SPARCRequest/a_Login  Sign Up'))
 
-CustomKeywords.'newpackage.newkeyword.loadTextFile'('H:\\katalon.txt')
+CustomKeywords.'newpackage.newkeyword.loadTextFile'(GlobalVariable.password_filepath)
 
 WebUI.setText(findTestObject('I-CART/Page_University of Iowa HawkID Logi/input_j_username'), GlobalVariable.username_admin)
 
