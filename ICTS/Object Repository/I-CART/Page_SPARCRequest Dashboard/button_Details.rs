@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Details</name>
+   <tag></tag>
+   <elementGuidId>96d54aed-ee23-4f24-8c38-b5527a83ac09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;study-level-activities-table&quot;)/tbody[1]/tr[1]/td[@class=&quot;options&quot;]/div[@class=&quot;btn-group overflow_webkit_button open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/button[@class=&quot;btn btn-default form-control actions-button otf_details list&quot;][count(. | //button[@type = 'button']) = count(//button[@type = 'button'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default form-control actions-button otf_details list</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Details</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;study-level-activities-table&quot;)/tbody[1]/tr[1]/td[@class=&quot;options&quot;]/div[@class=&quot;btn-group overflow_webkit_button open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[1]/button[@class=&quot;btn btn-default form-control actions-button otf_details list&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

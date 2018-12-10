@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Admin Edit</name>
+   <tag></tag>
+   <elementGuidId>d11f3017-f8a6-48fa-b87f-941a63d2391f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;service-requests-panel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;bootstrap-table-dropdown-overflow&quot;]/div[@class=&quot;bootstrap-table&quot;]/div[@class=&quot;fixed-table-container&quot;]/div[@class=&quot;fixed-table-body&quot;]/table[@class=&quot;service-requests-table table table-hover table-striped&quot;]/tbody[1]/tr[1]/td[@class=&quot;col-md-3&quot;]/button[@class=&quot;edit-service-request btn btn-warning btn-sm&quot;][count(. | //button[@type = 'button']) = count(//button[@type = 'button'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;service-requests-panel&quot;]/div[2]/div/div[1]/div[2]/div[2]/table/tbody/tr[last()]/td[6]/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit-service-request btn btn-warning btn-sm</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-permission</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>/dashboard/sub_service_requests/1303</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>bottom</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-delay</name>
+      <type>Main</type>
+      <value>{&quot;show&quot;:&quot;500&quot;}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Service Provider administrative access to track and manage services</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip776273</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin Edit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;service-requests-panel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;bootstrap-table-dropdown-overflow&quot;]/div[@class=&quot;bootstrap-table&quot;]/div[@class=&quot;fixed-table-container&quot;]/div[@class=&quot;fixed-table-body&quot;]/table[@class=&quot;service-requests-table table table-hover table-striped&quot;]/tbody[1]/tr[1]/td[@class=&quot;col-md-3&quot;]/button[@class=&quot;edit-service-request btn btn-warning btn-sm&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

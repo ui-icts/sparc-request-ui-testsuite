@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add  Modify Request</name>
+   <tag></tag>
+   <elementGuidId>98cc802b-f37e-4efb-848f-b45458e507dd</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-warning edit-service-request</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-permission</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>/service_requests/4286/catalog?edit_original=true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Add / Modify Request
+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;service-requests-panel&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;bootstrap-table-dropdown-overflow&quot;]/div[@class=&quot;bootstrap-table&quot;]/div[@class=&quot;fixed-table-toolbar&quot;]/div[@class=&quot;bars pull-left&quot;]/div[@class=&quot;service-requests-custom-toolbar-4286&quot;]/div[@class=&quot;tooltip-wrapper&quot;]/button[@class=&quot;btn btn-sm btn-warning edit-service-request&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
